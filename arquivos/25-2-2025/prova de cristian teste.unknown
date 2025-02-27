@@ -1,0 +1,101 @@
+Sendo M seu número de matrícula, escreva códigos em JavaScript para:
+
+1) Mostrar a quantidade de ocorrências de um dígito (d) em um número inteiro positivo (n).
+
+	d = 1, n = 111 -> 3
+	d = 1, n = 246 -> 0
+	d = 2, n = 12652341232 -> 4
+
+    let d = 1;
+    let n = 123321;
+    let r = 0;
+    let m = 1;
+    let p = 0;
+    let t = 0;
+    while(n == t)
+    {
+        l = Math.trunc((n%10**m)/10**p);
+        if (l == d)
+        {r++;
+        }
+        p++;
+        m++;
+        t++;
+    }
+    alert(r);
+
+
+
+
+2) Caso M%2 seja
+	0: Mostrar os dígitos em comum entre dois números inteiros positivos (n1, n2).
+	1: Mostrar os dígitos de um número inteiro positivo (n1) que não aparecem em outro número inteiro positivo (n2).
+
+	M = 2024308238 -> 2024308238%2 -> 0
+
+	n1 = 123, n2 = 987 -> ()
+	n1 = 123, n2 = 531 -> (1, 3)
+	n1 = 111, n2 = 111 -> (1)
+
+	M = 2024308239 -> 2024308239%2 -> 1
+
+	n1 = 123, n2 = 531 -> (2)
+	n1 = 123, n2 = 9751 -> (2, 3)
+	n1 = 123, n2 = 123 -> ()
+
+    M%2 = 1
+
+
+
+    let n1 = 123;
+    let n2 = 531;
+    while()
+    {
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    
+    
+    
+    
+    }
+    alert();
+    
+    
+    
+        
+3) Mostrar os dígitos com a maior quantidade de ocorrências em um número inteiro positivo (n).
+
+	n = 100 -> (0)
+	n = 111 -> (1)
+	n = 123124125 -> (1, 2)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OBSERVAÇÕES:
+* Utilize os nomes estipulados nas questões para entrada dos dados.
+* Não utilize prompt para entrada de dados.
+* Não utilize alert para depuração.
+* A formatação da resposta final como solicitado na questão faz parte da correção.
+* Utilize um alert para mostrar a resposta final.
