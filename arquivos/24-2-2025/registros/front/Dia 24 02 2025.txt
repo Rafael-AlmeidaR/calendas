@@ -1,0 +1,17 @@
+Dia 24 02 2025
+Segunda-Feira
+
+As línguas de programação usadas vão ser HTML, CSS e JavaScript, também fazendo uso de VSCode, GitHub e Figma.
+
+Segundas: aulas práticas, usadas para atendimento, exercícios e apresentações.
+Sextas: aulas teóricas, a parte "chata", o aprendizado.
+
+		Engenharia de Software ==> Design ==> HTML, CSS, JavaScript } FrontEnd
+
+Figma: Ferramenta de design gráfico
+VSCode: Ferramenta usada para a escrita do código em si
+BootStrap: Biblioteca de código extensa
+GitHub: Ferramenta usada para colocar a página pronta no ar
+
+Página Estática: uma página criada com HTML, CSS e JavaScript padrões, que fixam e exibem o mesmo conteúdo para cada usuário.
+Página Dinámica: pode exibir diferentes conteúdos e proporcionar interação do usuário, fazendo uso de programação avançada e bancos de dados, além de HTML.
