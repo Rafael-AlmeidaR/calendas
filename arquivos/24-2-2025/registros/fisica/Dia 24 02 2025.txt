@@ -1,0 +1,12 @@
+Dia 24 02 2025
+Segunda-Feira
+
+Estudos incluirão fluidos, térmicos e óticas
+
+Fórmula da pressão:	p = f/a (pressão = força/área, força em Newtons e área em metros quadrados)
+
+A pressão atmosférica é criada pela força da gravidade empurrando a atmosfera numa área específica.
+			pa = g*at/a (pressão atmosférica = gravidade * atmosfera / área)
+
+Pressão hidroestática: 	ph = d*g*h (pressão hidroestática = densidade(massa/volume) * gravidade(em metros por segundo) * altura
+
