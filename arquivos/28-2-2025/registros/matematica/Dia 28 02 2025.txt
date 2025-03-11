@@ -1,0 +1,12 @@
+Dia 28 02 2025
+Sexta-Feira
+
+-Livros didáticos de matemática pra 2c disponíveis na biblioteca 
+
+Trigonometria: É o estudo das medidas dos lados, ângulos e outros elementos dos triângulos.
+
+1 grua de um ângulo é uma circunferência completa cortada em 360 pedaços iguais, cada um desses pedaços equivale a um grau.
+
+Radianos: considere uma circunferência cujo raio tem medida de comprimento pi, em uma determinada unidade. Nessa circunferência, um arco de um radiano é um arco cujo comprimento é igual a pi.
+
+	pi rad = 180°
