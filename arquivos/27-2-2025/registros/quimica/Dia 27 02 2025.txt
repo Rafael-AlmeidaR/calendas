@@ -1,0 +1,33 @@
+Dia 27 02 2025
+Quinta-Feira
+
+Matéria é tudo que possui massa e ocupa um lugar no espaço. Uma porção dessa matéria que será submetida ao estudo é chamado de sistema.
+
+Um sistema é formado por elementos que formam uma substância pura, ou pela mistura de diferentes substâncias.
+
+Substância pura: possui constantes físicos bem definidos, como temperatura de fusão e ebulição. Pode ser:
+	-Simples: átomos do mesmo elemento químico. 
+	
+	-Composta: átomos de elementos diferentes. 
+
+Substâncias podem ser formadas pelo mesmo elemento, mas pela organização dos seus átomos e a quantidade deles, são substâncias diferentes. Isso é conhecido como Altropia.
+
+Mistura: Formada por 2 ou mais substâncias, não apresenta constantes físicas bem definidas.
+	-Mistura eutética: tem a temperatura de fusão constante, mas a temperatura de ebulição, não
+
+	-Mistura azeotrópica: tem a temperatura de ebulição constante, mas a temperatura de fusão, não.
+
+Misturas podem ser divididas em misturas homogêneas e heterogêneas, dependendo das fases (porção delimitada do sistema onde as propriedades são idêndicas)
+
+	-Mistura homogênea: 2 ou mais componentes & uma única fase
+
+	-Mistura heterogênea: 2 ou mais componentes & 2 ou mais fases
+
+Toda mistura homogênea é uma solução, dividida em três tipos:
+
+	-Solução Líquida
+	-Solução Gasosa
+	-Solução Sólida
+
+
+
