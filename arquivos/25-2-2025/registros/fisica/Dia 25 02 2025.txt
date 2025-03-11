@@ -1,0 +1,81 @@
+Dia 25 02 2025
+Terça-Feira
+
+Hidroestática ou Fluidoestática: é o estudo dos líquidos e fluidos em equilíbrio.
+
+			d = densidade
+	d = m/v		m = massa
+	SI = kg/m³	v = volume
+
+Pressão: 
+
+			P = pressão
+	P = F/A		F = força
+	SI = N/m²	A = área
+
+Exercícios de Densidade
+
+1) Qual a massa de uma chapa de ferro de volume 650 cm³, sabendo que a densidade absoluta do ferro é 7,8*10³ Kg/m³?
+	d = m/v
+	7800 = m/0,00065 
+	m = 7800 * 0,00065
+	m = 5,07
+
+2) A 4° C a densidade da água é 1000 Kg/m³. Nessa temperatura qual é a massa de 2 litros de água?
+	d = m/v
+	1000 = m/0,002 
+	1000 * 0,002 = m
+	m = 2
+
+3) A densidade absoluta da gasolina é 0,7 g/cm³. A massa de um tanque cheio de gasolina é de 50 Kg. Se a massa do tanque vazio é 8Kg. Qual o volume ocupado pela gasolina?
+	d = m/v
+	700 = 42/v 
+	700 * v = 42
+	v = 42/700 
+	v = 0,06m³
+
+4) A densidade absoluta do mercúrio é 13,6 g/cm³. Calcule o volume ocupado por 0,68 Kg dessa substância.
+	d = m/v
+	13600 = 0,68/v
+	v = 0,68/13600
+	v = 0,00005m³
+
+Exercícios de Pressão
+
+1) Aplica-se uma força de 80N perpendicularmente numa superfície de área 0,8 m². Calcule a pressão exercida.
+	P = F/A
+	P = 80/0,8
+	p = 100N/m²
+
+2) Qual a pressão exercida por um tanque de água de massa 100 Kg, sobre a sua base de área de 2m²
+	P = F/A
+	F = m * g (força = massa * gravidade)
+	F = 100 * 9,8
+	F = 980 N
+	P = 980/2
+	P = 490N/m²
+
+3) A água contida em um tanque exerce uma pressão de 40N/m² sobre sua base, que possui área de 0,001 cm². Calcule a força exercida pela água na base do tanque.
+	P = F/A
+	40 = F/0,001
+	40/0,001 = F
+	F = 40.000 N
+
+4) Um paralelepípedo tem dimensões 5cm x 15cm x 35cm e peso 30N. Determine a pessão que ele exerce sobre o plano de apoio, quando:
+	a) Apoiado na menor área:
+		A = 5cm x 15cm
+		A = 75cm²
+		A = 0,0075m²
+		P = F/A
+		P = 30/0,0075
+		P = 4000N/m²
+
+	b) Apoiado na maior área:
+		A = 15cm x 35cm
+		A = 525cm²
+		A = 0,0525m²
+		P = F/A
+		P = 30/0,0525
+		P = aprox. 571,43N/m²
+
+
