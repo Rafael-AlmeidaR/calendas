@@ -1,0 +1,11 @@
+Dia 11 03 2025
+Terça-Feira
+
+Pressão Atmosférica
+
+A atmosfera é uma camada de ar em redor da Terra, se estendendo até 18Km de altura, que exerce pressão constante chamada pressão atmosférica.
+
+Criada pelo cientista Toricelli, pelos experimentos dele com mercúrio e tubos.
+
+	P. atmos = 76cm Hg => Unidade Pressão
+	1 atm = 76 cm Hg => 1*10^5 N/m²
