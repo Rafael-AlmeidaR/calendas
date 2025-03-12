@@ -1,0 +1,40 @@
+10 03 2025
+Segunda-Feira
+
+Tipografia: É a escrita, criação e aplicação dos caracteres, estilos, formatos e arranjos visuais das palavras. Boa tipografia influencia fortemente na qualidade do design. São três fontes mais usadas:
+
+	-Sans-Serif: A mais indicada para textos mais longos pela sua facilidade de leitura.
+	-Serif: Mais refinada, mais formal, mas mais difícil de ler.
+	-Display: As fontes esotéricas, mais graficamente complexas, é para ser usada raramente.
+
+Tendo apenas 1 fonte usada no site inteiro interliga e harmoniza o site. Talvez uma fonte diferente pro texto principal e uma outra para demais elementos como botões e menus.
+
+O tamanho ideal de textos de parágrafos são:
+	-Em celulares: min 12px
+	-Em computadores: min 16px
+
+A largura ideal do parágrafo deve ficar entre 45 e 75 caracteres.
+
+Não deixe o texto todo em letras maísculas, seu idiota.
+
+Lembre-se de deixar um bom espaçamento entre linhas, parágrafos e textos conforme o padrão da fonte.
+
+Contraste entre o fundo e o texto para legibilidade.
+
+CORES
+
+São aplicadas na parte estrutural do site. Trabalhos gráficos e certos elementos fogem da exceção, entretando quando seguem o esquema de cores o visual normalmente melhora.
+
+Fundo - A maioria do site. Tipicamente branco ou preto.
+Contraste - Texto e certas áreas importantes. Tipicamente o inverso do fundo.
+Destaque - Botões e menus importantes de ressaltar. Tipicamente vermelho.
+Complementar - Links e atalhos. Tipicamente azul.
+
+Sobre a quantidade de cada cor, a proporção ideal seria 60% dominante, usualmente o fundo; 30% secundária, a cor contrastante ao fundo; 10% destaques e complementos.
+
+ALINHAMENTO
+
+	-Sempre que possível, alinhe os elementos na vertical e horizontal. 
+	-Evite espaços em branco grandes e mal posicionados.
+	-Textos não devem encostar nas bordas.
+	-Espaçamento e alinhamento consistente pelo site.
