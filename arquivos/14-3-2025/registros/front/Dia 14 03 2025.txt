@@ -1,0 +1,22 @@
+Dia 14 03 2025
+Sexta-Feira
+
+HTML, VSCode 
+
+Todo código no HTML terá essa estrutura básica:
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+
+Para facilitar sua vida, coloque ! no VSCode e clique a primeira opção que aparecer, que essa estrutura aparecerá magicamente.
+
+A maioria do código será feita dentro do </body>, com </head> sendo para cabeçarios e coisas do tipo, e </title> para títulos.
