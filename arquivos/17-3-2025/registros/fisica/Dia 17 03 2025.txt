@@ -1,0 +1,48 @@
+Dia 17 03 2025
+Segunda-Feira
+
+Pressão de Uma Columa da Líquido
+
+Consideramos um recipiente, que contém um líquido de densidade absolute "d" até uma altura "h", num local onde a aceleração da gravidade é "g".
+
+O líquido contido no recipiente tem um peso "P" e exerce sobre a base do recipiente pressão "p" dada por:
+	p = P/a => m*g/(v/h) => d * v * g/(v/h) => p = d * g * h
+
+Essa pressão em uma coluna de líquido é também chamada pressão hidroestática e pode ser aplicada a um ponto qualquer do recipiente.
+
+Se tivermos, por exemplo, vários líquidos micíveis dentro do mesmo recipiente, a pressão no fundo será a soma das pressões parciais que cada líquido exercerá individualmente.
+
+O recipientecontém água até a altura de 20cm. Sabendo que a área da base vale, aproximadamente, 8cm², g = 10m/s² e d'água 1g/cm³. Calcule:
+
+a) A pressão exercida pela coluna de água no fundo do recipiente:
+	d = 1g/cm³
+	d = 1000Km/m³
+	h = 20cm/100 => 0,2m
+	p = d * g * h
+	p = 1000 * 10 * 0,2
+	p = 2000N/m²
+	p = 2000Pa
+
+b) A força que a água exerce no fundo do recipiente:
+	p = F/A
+	2000 = F/0,008
+	F = 1,8N
+
+1) Um depósito de água possui, no fundo, uma válvula de 6m de diâmetro. A válvula abre-se sob ação da água quando esta atinga 1,8m acima do nível da válvula. Supondo a densidade da água 10³Kg/m³ e a aceleração da gravidade 10m/s², calcule a força para abrir a válvula.
+
+2) AS dimensões de uma piscina de fundo plano e horizontal de um clube são 25m de comprimento e 10 m de largura. Sabe-se que a água que exerce uma força de largura. Sabe-se que a água que enche exerce uma força de 4,5*10^N no seu fundo. Determine a profundidade dessa piscina dados d. água = 1g/cm³ e g = 10m/s²
+
+3) Ache a pressão exercida pelos líquidos no fundo de recipiente dados:
+	d. H20 = 1g/cm³
+	d. Hg = 13,6/cm³
+	g = 10m/s²
+
+	 _______
+	|	|
+	|	|}3 cm
+	|	|}H2O
+	|	|
+	|	|}
+	|	|}6 cm
+	|	|}Hg
+	|_______|}
