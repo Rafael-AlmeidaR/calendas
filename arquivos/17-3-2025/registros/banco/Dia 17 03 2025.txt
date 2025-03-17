@@ -1,0 +1,13 @@
+Dia 17 03 2025
+Segunda-Feira
+
+Ferramentas para conceitual final:
+
+	PlanText UML Editor - https://www.planttext.com/
+	draw.io - https://app.diagrams.net/
+
+
+Ciclos nas relações das tabelas não são desejáveis, melhor sem, mas não há problemas se houver.
+Existem vários jeitos de descascar o abacaxi, não existe somente uma forma resolutiva para o problema.
+
+
