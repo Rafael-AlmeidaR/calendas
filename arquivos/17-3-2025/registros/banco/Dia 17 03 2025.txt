@@ -1,0 +1,88 @@
+Dia 17 03 2025
+Segunda-Feira
+
+Ferramentas para conceitual final:
+
+	PlanText UML Editor - https://www.planttext.com/
+		com sintaxe uml para criar tabelas, escrever e gerar
+	draw.io - https://app.diagrams.net/
+		interface visual como o canva, arrastar e soltar
+
+Material auxiliar:
+	https://www.devmedia.com.br/modelagem-de-dados-tutorial/20398
+	https://www.youtube.com/playlist?list=PLucm8g_ezqNoNHU8tjVeHmRGBFnjDIlxD
+
+
+Ciclos nas relações das tabelas não são desejáveis, melhor sem, mas não há problemas se houver.
+Existem vários jeitos de descascar o abacaxi, não existe somente uma forma resolutiva para o problema.
+
+==========================================================
+
+-SINTAXE PLANTEXT
+
+	RELAÇÃO 	SÍMBOLO
+	Zero ou um 	|o--
+	Somente um 	||--
+	Zero ou vários 	}o--
+	Um ou vários 	}|--
+
+	KEYS
+	Primary Key(pk) - Negrito
+	**exemplo**
+	Foreign Key(fk) - Itálico
+	//exemplo//
+
+	ENTIDADE
+	entity exemplo{
+	    **código: inteiro**
+		informacaoA: 5 letras
+		informacaoB: real
+		informacaoC: texto 
+	}
+
+
+EXEMPLO PESSOA-EMAIL
+
+@startuml
+
+entity pessoa {
+    **cpf: 14 letras**
+    nome: texto
+    nascimento: data
+    genero: 1 letra
+}
+
+entity email {
+   endereco: texto
+   //cpf: 14 letras//
+}
+
+pessoa ||--|{ email
+
+@enduml
+
+
+Caso queira pode-se personalizar o PlanText para uma aparência mais "tabela"
+com o seguinte código UML(totalmente opcional):
+
+scale 1.00
+skinparam ClassBackgroundColor White
+skinparam ClassBorderColor Black
+skinparam ClassAttributeIconSize 0
+skinparam ClassFontStyle Bold
+skinparam ClassFontSize 12
+skinparam ClassAttributeFontSize 12
+skinparam NoteBackgroundColor White
+skinparam NoteBorderColor Black
+skinparam ArrowColor Black
+skinparam Shadowing False
+skinparam LineType Ortho
+hide Circle
+hide Empty Members
+
+
+---> Para aplicá-lo é necessário colocar ele dentro do @startuml e do @enduml <---
+
+===============================
+
+
