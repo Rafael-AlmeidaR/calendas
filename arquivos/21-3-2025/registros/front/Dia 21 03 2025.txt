@@ -1,0 +1,52 @@
+Dia 21 03 2025
+Sexta Feira
+
+<table> => começa tabela
+	<tr> => linha
+		<td> L1C1 </td> => célula da linha
+		<td> L1C2 </td> => célula da linha
+	</tr> => termina linha
+</table> => termina tabela
+
+Como estilizar e adicionar linhas na tabela:
+
+<head>
+	<style>						
+		table, th, td {border: 2px solid black;}
+	</style>					}
+</head>
+
+<i> o texto será em itálico </i>
+<b> o texto será em negrito </b>
+
+Outro jeito de organizar a tabela:
+
+<table>
+	<caption> título da tabela </caption>
+	<thead> => a primeira linha, a cabeça da tabela
+		<tr>
+			<th> faz o título ser em negrito </th>
+		</tr>
+	</thead>
+	<tbody> => corpo da tabela
+		<tr>
+			<td> bla bla bla </td>
+		</tr>
+	</tbody>
+</table>
+
+Pode também organizar várias colunas para uma única linha:
+
+<th colspan = "2"> Parcelas </th>
+Isso dá duas colunas para "Parcelas
+
+O contrário também pode ser feito, várias linhas para uma única coluna:
+
+<tbody>
+	<tr>
+		<td rowspan = "2"> Janeiro </bd>
+		<td> $200 </td>
+		<td> $200 </td>
+	</tr>
+</tbody>
+
