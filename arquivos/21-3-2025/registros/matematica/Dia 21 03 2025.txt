@@ -1,0 +1,19 @@
+Dia 21 03 2025
+Sexta-Feira
+
+Tudo a seguir é referente á triângulos retângulos:
+
+Seno é o cateto oposto dividido pela hipotenusa;
+Como a hipotenusa é sempre o maior lado do triângulo, o seno vai sempre ser um número menor que 1;
+É escrito como: sen(ângulo referencial) = cateto oposto/hipotenusa
+
+Coseno é o cateto junto ao ângulo dividido pela hipotenusa;
+Sempre vai ser menor que 1 pelas mesmas razões;
+É escrito como: cos(ângulo referencial) = cateto adjacente/hipotenusa
+
+Tangente é o cateto oposto dividido pelo cateto adjacente(junto)
+É escrito como: tg(ângulo referencial) = cateto oposto/cateto adjacente
+
+Relação Fundamental da Trigonometria:
+
+	sen²x + cos²x = 1	"O seno ao quadrado de um ângulo mais o coseno ao quadrado do mesmo é igual a 1, sempre"
